@@ -13,5 +13,8 @@ public class Pizza {
         }
     }
 
+    public void getPizzaPrice(){
+        System.out.println(this.price);
+    }
 
 }
